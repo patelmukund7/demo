@@ -1,2 +1,2 @@
-# demo
-first repository
+# BASIC PYTHON
+my experience through the basics of python
